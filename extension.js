@@ -27,6 +27,7 @@ function init() {
     
     button.connect('button-press-event', function(actor, e){
         if(e.get_button() !== 1) {
+            var now = new Date();
             St.Clipboard.get_default().set_text(St.ClipboardType.CLIPBOARD, Math.round(now.getTime() / 1000).toString());
         } else {
             St.Clipboard.get_default().set_text(St.ClipboardType.CLIPBOARD, label.get_text());
