@@ -1,8 +1,8 @@
 {
     "name": "Unix Timestamp Clock",
-    "description": "Show the current unix timestamp as a clock in the top bar",
+    "description": "Show the current unix timestamp as a clock in the top bar.\n\nCopy-paste currently shown timestamp (left mouse button) or current timestamp (any other mouse button) to clipboard",
     "url": "https://github.com/se1exin/unix-timestamp-clock",
     "uuid": "unix-timestamp-clock@se1exin.github.com",
     "shell-version": ["3.22"],
-    "version": 1
+    "version": "1.1.0"
 }
