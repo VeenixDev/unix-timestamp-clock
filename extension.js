@@ -20,6 +20,7 @@ function init() {
     label = new St.Label({
         style_class: 'unixtime',
         text: '',
+        y_align: St.Align.END,
         opacity: 200
     });
 
