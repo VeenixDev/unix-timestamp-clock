@@ -22,4 +22,4 @@ git clone https://github.com/se1exin/unix-timestamp-clock.git unix-timestamp-clo
 ```
 
 ## Contributors
- - @Teddytrombone - [Copy to clipboard](https://github.com/se1exin/unix-timestamp-clock/pull/1)
+ - @Teddytrombone - [Copy to clipboard](https://github.com/se1exin/unix-timestamp-clock/pull/1), [Gnome 3.38 fix](https://github.com/se1exin/unix-timestamp-clock/issues/2)
